@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">aqui é o meu cantinho no github! <br>esse espaço é dedicado aos meus projetos e aprendizados em front-end ♡</p>
+<p align="center">aqui é o meu cantinho no github! <br>esse espaço é dedicado aos meus projetos e aprendizados em front-end e web design ♡</p>
 
 ###
 
